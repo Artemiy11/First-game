@@ -1,0 +1,10 @@
+H - Gun off.
+N - Gun on
+B - shoot
+M - sprint
+
+  		._.
+
+
+Open File "My_game1"
+kotoruy c plenkoy u zmeey.
